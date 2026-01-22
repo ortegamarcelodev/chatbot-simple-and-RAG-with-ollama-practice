@@ -36,7 +36,7 @@ ollama pull nomic-embed-text:latest
 ```bash
 mkdir practica-ia
 cd practica-ia
-git clone <url-del-repositorio> .
+git clone https://github.com/ortegamarcelodev/chatbot-simple-and-RAG-with-ollama-practice.git
 ```
 
 ### 2. Crear entorno virtual
