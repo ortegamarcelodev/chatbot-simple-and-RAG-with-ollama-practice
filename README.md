@@ -1,6 +1,6 @@
 # 🤖 RAG Chat con PDFs - Práctica IA
 
-Proyecto de práctica que implementa un sistema de chat con inteligencia artificial usando **RAG (Retrieval-Augmented Generation)** para consultar documentos PDF y un chat conversacional básico sobre la Segunda Guerra Mundial.
+Proyecto de práctica que implementa un sistema de chat con inteligencia artificial e integrado en una API usando **RAG (Retrieval-Augmented Generation)** para consultar documentos PDF y un chat conversacional básico sobre la Segunda Guerra Mundial y todo sobre un servidor creado con FastAPI.
 
 ## ✨ Características
 
